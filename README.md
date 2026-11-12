@@ -1,4 +1,6 @@
-<h1 align="center">MacaroonsShop</h1>
+<p align="center">
+  <img src="screenshots/logo.png" width="380" alt="Macaroons">
+</p>
 
 <p align="center">
   <b>Лендинг кондитерской с макарунами: каталог, подстановка выбранного товара в заказ и отправка формы.</b>
